@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 # LICENSE_CODE ZON ISC
 
-rm -rf /.dockerenv
-
 PRODUCT=$2
 
 LCONF="/etc/earnapp/ver_conf.json"
